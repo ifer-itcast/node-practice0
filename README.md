@@ -26,3 +26,4 @@ User.updateOne()
 
 ## Code
 
+[代码](https://github.com/ifer-itcast/node-practice/blob/master/static/hs.png)
